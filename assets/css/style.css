@@ -1,0 +1,65 @@
+.custom-container {
+    background-color: lightgreen;;
+}
+
+#today {
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#forecast {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-left: 2px;
+}
+
+#search-button {
+    background-color: darkgreen;
+    color: white;
+}
+
+#history button {
+    border: none;
+    border-radius: 5px;
+    background-color: darkgreen;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.card {
+    background-color: darkgreen;
+    padding: 20px;
+    width: 18%;
+    color: white;
+}
+
+.card h5 {
+    color: white;
+}
+
+.card img {
+    width: 50px;
+    height: 50px;
+}
+
+.favorable {
+    display: inline;
+    background-color: rgb(157, 219, 157);
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.severe {
+    display: inline;
+    background-color: rgb(207, 78, 69);
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.moderate {
+    display: inline;
+    background-color: rgb(238, 229, 144);
+    padding: 5px;
+    margin-bottom: 20px;
+}
