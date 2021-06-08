@@ -1,5 +1,4 @@
 //set global variables
-// var apiKey = "371201dc0173d4e3e8307cc1abf9c509";
 var searchBtn = document.querySelector("#search-button");
 var todayEl = document.getElementById("today");
 var historyEl = document.getElementById("history");
